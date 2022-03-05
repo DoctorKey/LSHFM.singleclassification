@@ -1,4 +1,5 @@
 # LSHFM.classification
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/in-defense-of-feature-mimicking-for-knowledge/knowledge-distillation-on-imagenet)](https://paperswithcode.com/sota/knowledge-distillation-on-imagenet?p=in-defense-of-feature-mimicking-for-knowledge)
 
 This is the PyTorch source code for [Distilling Knowledge by Mimicking Features](https://arxiv.org/abs/2011.01424). We provide all codes for three tasks.
 
