@@ -6,8 +6,8 @@
 
 This is the PyTorch source code for [Distilling Knowledge by Mimicking Features](https://arxiv.org/abs/2011.01424). We provide all codes for three tasks.
 
-* single-class image classification: [LSHFM.singleclassification](https://github.com/DoctorKey/LSHFM.singleclassification)
-* multi-class image classification: [LSHFM.multiclassification](https://github.com/DoctorKey/LSHFM.multiclassification)
+* single-label image classification: [LSHFM.singleclassification](https://github.com/DoctorKey/LSHFM.singleclassification)
+* multi-label image classification: [LSHFM.multiclassification](https://github.com/DoctorKey/LSHFM.multiclassification)
 * object detection: [LSHFM.detection](https://github.com/DoctorKey/LSHFM.detection)
 
 ## Dependence
